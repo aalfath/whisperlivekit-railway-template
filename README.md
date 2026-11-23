@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/whisperlivekit?utm_medium=integration&utm_source=button&utm_campaign=whisperlivekit)
+
 # WhisperLiveKit on Railway
 
 Railway template for [WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) **v0.2.28**: a self-hosted, real-time speech-to-text server with a browser UI, a live WebSocket API, an OpenAI-compatible `/v1/audio/transcriptions` endpoint and a Deepgram-compatible `/v1/listen` WebSocket. It runs on CPU with a small Whisper model, and every API call needs a generated token.
